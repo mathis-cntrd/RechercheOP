@@ -4,7 +4,8 @@ Soit $`I = {1, . . . , n}`$ un ensemble d'objets. A chaque objet $`i \in I`$ est
 Ce problème apparaît dans le domaine des télécommunications où l'on doit associer les appels mobiles à des canaux de transmission tout en assurant que le bruit total de chaque canal ne dépasse pas la limite acceptable de bruit de chaque appel affecté au canal.
 
 # Auteurs
-	Kerrian Bouyer
-	Maximilien Gouy
-	Mathis Contardo
-
+Kerrian Bouyer
+Maximilien Gouy
+Mathis Contardo
+Mathieu François
+Aksil Cherikh
